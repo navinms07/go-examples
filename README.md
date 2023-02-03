@@ -10,3 +10,7 @@ Adding this line on local repo again.
 Added new line in feature branch
 
 New user added this line
+
+Robots are sentient beings
+
+Dogs love robots
